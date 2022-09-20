@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Powershell Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+I am a Powershell Developer from  Norway <img src="flag.gif" width="30">.
 
 - 🔭 I’m working in IT and I work on servers mostly.
 - 🌱 Exploring Technical Content Writing.
