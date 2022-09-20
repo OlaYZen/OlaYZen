@@ -17,7 +17,7 @@ I am a Powershell Developer from  Norway <img src="flag.gif" width="30">.
 - 🔭 I’m working in IT and I work on servers mostly.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems that i make myself and playing Games.
-- 🌐 Visit my Website at: https://www.olayzen.lol/ <-- In Progress
+- 🌐 Visit my Website at: https://www.olayzen.lol/ <-- Currently In Development
 
 ---
 
