@@ -1,4 +1,4 @@
-<p align="center"><img src="/gif/startinggif.gif" width="100"/></p>
+<p align="center"><img src="/gif/startinggif.gif" width="200"/></p>
 
 <p align="center">
 </p>
