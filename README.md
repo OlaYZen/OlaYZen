@@ -1,4 +1,4 @@
-<p align="center"><img src="/gif/startinggif.gif width="100"/></p>
+<p align="center"><img src="/gif/startinggif.gif" width="100"/></p>
 
 <p align="center">
 </p>
@@ -6,11 +6,11 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olayzen&style=for-the-badge&color=blue" alt=""></p>
 <h1 align="center">Hey there <img src="/gif/WavingHand.gif" width="40"></h1>
-<p align="center"><img src="coding.gif" width="600" height="300"  /></p>
+<p align="center"><img src="/gif/coding.gif" width="600" height="300"  /></p>
 
 ---
 ### 👨‍💻 About Me :
-I am a Powershell Developer from  Norway <img src="flag.gif" width="30">
+I am a Powershell Developer from  Norway <img src="/gif/flag.gif" width="30">
 - 🔭 I’m working in IT and I work on servers mostly.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems that i make myself and playing Games.
