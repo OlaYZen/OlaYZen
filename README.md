@@ -23,6 +23,11 @@ I am a Powershell Developer from  Norway <img src="flag.gif" width="30">.
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlaYZen&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OlaYZen&show_icons=true&theme=tokyonight" />
+</a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=tokyonight" />
+</a></p>
