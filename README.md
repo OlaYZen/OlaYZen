@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### 👨‍💻 &nbsp;About Me :
+### 👨‍💻 About Me :
 
 I am a Powershell Developer from  Norway <img src="flag.gif" width="30">.
 
