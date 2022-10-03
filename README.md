@@ -17,7 +17,7 @@ I am a Powershell Developer from  Norway <img src="/gif/flag.gif" width="30">
 - 👨 If you even care, im 18 years old
 - ⚡ In my free time I solve problems that i make myself and playing Games.
 - 🌐 Visit my Website at: https://www.olayzen.lol/ <-- Currently In Development
-- 🌎 More about me checkout https://docs.olayzen.lol/ <-- Also in Development
+- 📄 More about me checkout https://docs.olayzen.lol/ <-- Also in Development
 ---
 ### 🔥 My Stats :
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
