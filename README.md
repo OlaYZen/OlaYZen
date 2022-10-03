@@ -22,7 +22,7 @@ I am a Powershell Developer from  Norway <img src="flag.gif" width="30">.
 ---
 
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OlaYZen&show_icons=true&theme=tokyonight" />
 </a></p>
