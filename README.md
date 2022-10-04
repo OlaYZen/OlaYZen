@@ -38,7 +38,6 @@ My current project is [SpeakMore](https://github.com/OlaYZen/SpeakMore). What is
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreLight.png"/>](https://github.com/OlaYZen/SpeakMore#gh-dark-mode-only)
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreDark.png"/>](https://github.com/OlaYZen/SpeakMore#gh-light-mode-only)
 
-
 ---
 
 ### 🚧 My Top Projects:
