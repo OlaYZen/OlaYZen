@@ -23,10 +23,10 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 ---
 ### 🔥 My Stats :
 <p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api?username=OlaYZen&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api?username=OlaYZen&count_private=true&show_icons=true&theme=cobalt" />
 </a></p>
 <p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api/top-langs/?username=OlaYZen&count_private=true&layout=compact&theme=cobalt" />
 </a></p>
 
 ---
@@ -35,8 +35,11 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 
 My current project is [SpeakMore](https://github.com/OlaYZen/SpeakMore). What is [SpeakMore](https://github.com/OlaYZen/SpeakMore)? Well, [SpeakMore](https://github.com/OlaYZen/SpeakMore) is going to be an open-source equivalent of Discord, Skype, Teamspeak, Guilded, and stuff like that. It's going to be, as I said open source but not accessible to the public but the code will be. Why? well I don't want to implement alot of security features and like that, because i don't have the time to put my soul into it
 
+[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=SpeakMore&theme=cobalt&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreLight.png"/>](https://github.com/OlaYZen/SpeakMore#gh-dark-mode-only)
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreDark.png"/>](https://github.com/OlaYZen/SpeakMore#gh-light-mode-only)
+-->
 
 ---
 
