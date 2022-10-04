@@ -23,10 +23,10 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 ---
 ### 🔥 My Stats :
 <p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api?username=OlaYZen&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api?username=OlaYZen&show_icons=true&theme=radical" />
 </a></p>
 <p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=radical" />
 </a></p>
 
 ---
