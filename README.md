@@ -31,9 +31,6 @@ YYYY             YYYYZZZZZZZZZZZZZZZZZZZZZ
 
 <!-- Labels -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olayzen&style=for-the-badge&color=blue" alt=""></p>
-<a href="https://github.com/OlaYZen/OlaYZen/blob/main/MIT-LICENSE.txt">
-  <p align="center"><img src="https://img.shields.io/github/license/OlaYZen/OlaYZen?style=for-the-badge&color=gree" alt=""></p>
-</a>
 <h1 align="center">Hey there <img src="/gif/WavingHand.gif" width="40"></h1>
 
 <!-- Gifs -->
@@ -80,3 +77,7 @@ My current project is [SpeakMore](https://github.com/OlaYZen/SpeakMore). What is
 ---
 
 ### 🚧 My Top Projects :
+
+<a href="https://github.com/OlaYZen/OlaYZen/blob/main/MIT-LICENSE.txt">
+  <p align="right"><img src="https://img.shields.io/github/license/OlaYZen/OlaYZen?style=for-the-badge&color=gree" alt=""></p>
+</a>
