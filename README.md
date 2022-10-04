@@ -34,7 +34,7 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 ### 🏗️ My Current Project :
 
 
-[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=SpeakMore&show_owner=true&theme=cobalt&layout=compact")](https://github.com/OlaYZen/SpeakMore)
+[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=SpeakMore&show_owner=true&theme=cobalt&layout=Gradient")](https://github.com/OlaYZen/SpeakMore)
 <!--
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreLight.png"/>](https://github.com/OlaYZen/SpeakMore#gh-dark-mode-only)
 [<img src="https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreDark.png"/>](https://github.com/OlaYZen/SpeakMore#gh-light-mode-only)
