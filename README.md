@@ -37,7 +37,7 @@ My current project is [SpeakMore](https://github.com/OlaYZen/SpeakMore). What is
 
 ![SpeakMore](https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreWhite.png#gh-dark-mode-only)
 
-![SpeakMore](https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMoreWhite.png#gh-light-mode-only)
+![SpeakMore](https://raw.githubusercontent.com/OlaYZen/SpeakMore/master/SpeakMore.png#gh-light-mode-only)
 ---
 
 ### 🚧 My Top Projects:
