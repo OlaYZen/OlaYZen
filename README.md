@@ -5,7 +5,9 @@
 <p align="center">
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olayzen&style=for-the-badge&color=blue" alt=""></p>
-<p align="center"><img src="https://img.shields.io/github/license/OlaYZen/OlaYZen?style=for-the-badge"alt=""></p>
+<a href="https://github.com/OlaYZen/OlaYZen/blob/main/MIT-LICENSE.txt">
+  <p align="center"><img src="https://img.shields.io/github/license/OlaYZen/OlaYZen?style=for-the-badge&color=gree" alt=""></p>
+</a>
 <h1 align="center">Hey there <img src="/gif/WavingHand.gif" width="40"></h1>
 
 <p align="center"><img src="/gif/coding.gif" width="600" height="300"  /></p>
