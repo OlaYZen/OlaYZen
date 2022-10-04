@@ -40,7 +40,7 @@ YYYY             YYYYZZZZZZZZZZZZZZZZZZZZZ
 ---
 
 ### 👨‍💻 About Me :
-I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
+I am a Developer from Norway 🇳🇴
 - 🔭 I’m working in IT, and I work on servers mostly.
 - 🌱 Exploring Technical Content Writing.
 - 👨 If you even care, I'm 18 years old
