@@ -25,8 +25,8 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OlaYZen&show_icons=true&theme=tokyonight" />
 </a></p>
-<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=tokyonight" />
+<p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api/top-langs/?username=OlaYZen&layout=compact&theme=tokyonight" />
 </a></p>
 
 ---
