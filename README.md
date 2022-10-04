@@ -11,13 +11,13 @@
 
 ---
 ### 👨‍💻 About Me :
-I am a Powershell Developer from  Norway <img src="/gif/flag.gif" width="30">
-- 🔭 I’m working in IT and I work on servers mostly.
+I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
+- 🔭 I’m working in IT, and I work on servers mostly.
 - 🌱 Exploring Technical Content Writing.
-- 👨 If you even care, im 18 years old
-- ⚡ In my free time I solve problems that i make myself and playing Games.
+- 👨 If you even care, I'm 18 years old
+- ⚡ In my free time, I solve problems that I make myself and play Games.
 - 🌐 Visit my Website at: https://www.olayzen.lol/ <-- Currently In Development
-- 📄 More about me checkout https://docs.olayzen.lol/ <-- Also in Development
+- 📄 More about me check out https://docs.olayzen.lol/ <-- Also in Development
 ---
 ### 🔥 My Stats :
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
