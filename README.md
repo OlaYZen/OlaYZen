@@ -35,6 +35,12 @@ I am a Developer from  Norway <img src="/gif/flag.gif" width="30">
 
 ---
 
+### 📫 How to reach me:
+  - Twitter   : <https://twitter.com/olayzen>
+  - Website   : <https://olayzen.lol>
+  
+---
+
 ### 🏗️ My Current Project :
 
 
