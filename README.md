@@ -70,10 +70,6 @@ I am a Developer from Norway 🇳🇴
 
 [![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=SpeakMore&show_owner=true&theme=radical&layout=Gradient")](https://github.com/OlaYZen/SpeakMore)
 
-My current project is [SpeakMore](https://github.com/OlaYZen/SpeakMore). What is [SpeakMore](https://github.com/OlaYZen/SpeakMore)? Well, [SpeakMore](https://github.com/OlaYZen/SpeakMore) is going to be an open-source equivalent of Discord, Skype, Teamspeak, Guilded, and stuff like that. It's going to be, as I said open source but not accessible to the public but the code will be. Why? well I don't want to implement alot of security features and like that, because i don't have the time to put my soul into it
-
-
-
 ---
 
 ### 🚧 My Top Projects :
