@@ -68,7 +68,7 @@ I am a Developer from Norway 🇳🇴
 ### 🏗️ My Current Project :
 
 
-[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=SpeakMore&show_owner=true&theme=radical&layout=Gradient")](https://github.com/OlaYZen/SpeakMore)
+[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=BetterDiscordAddons&show_owner=true&theme=radical&layout=Gradient")](https://github.com/OlaYZen/BetterDiscordAddons)
 
 ---
 
