@@ -41,9 +41,9 @@ YYYY             YYYYZZZZZZZZZZZZZZZZZZZZZ
 
 ### 👨‍💻 About Me :
 I am a Developer from Norway 🇳🇴
-- 🔭 I’m working in IT, and I work on servers mostly.
+- 💻 I’m working in IT, and I work on servers mostly.
 - 👨 If you even care, I'm 18 years old
-- ⚡ In my free time, I solve problems that I make myself and play Games.
+- 🎮 In my free time, I solve problems that I make myself and play Games.
 - 🌐 Visit my Website at: https://www.olayzen.lol/ <-- Constantly In Development
 
 ---
