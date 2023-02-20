@@ -59,7 +59,6 @@ I am a Developer from Norway 🇳🇴
 
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/olayzen>
-  - Website   : <https://olayzen.lol>
   
 ---
 
