@@ -44,7 +44,7 @@ I am a Developer from Norway 🇳🇴
 - 💻 I’m working in IT, and I work on servers mostly.
 - 👨 If you even care, I'm 18 years old
 - 🎮 In my free time, I solve problems that I make myself and play Games.
-- 🌐 Visit my Website at: https://www.olayzen.com/ <-- Constantly In Development
+<!-- - 🌐 Visit my Website at: https://www.olayzen.com/ <-- Constantly In Development -->
 
 ---
 ### 🔥 My Stats :
@@ -65,7 +65,7 @@ I am a Developer from Norway 🇳🇴
 ### 🏗️ My Current Project :
 
 
-[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=BetterDiscordAddons&show_owner=true&theme=radical&layout=Gradient")](https://github.com/OlaYZen/BetterDiscordAddons)
+[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=loserpurp&repo=user-password-changer&show_owner=true&theme=radical&layout=Gradient")](https://github.com/OlaYZen/BetterDiscordAddons)
 
 ---
 
