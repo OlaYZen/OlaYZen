@@ -41,12 +41,10 @@ YYYY             YYYYZZZZZZZZZZZZZZZZZZZZZ
 
 ### 👨‍💻 About Me :
 I am a Developer from Norway 🇳🇴
-- 💻 I’m working in IT, and I work on servers mostly.
-- 👨 If you even care, I'm 20 years old
-- 🎮 In my free time, I solve problems that I make myself and play Games.
-<!-- - 🌐 Visit my Website at: https://www.olayzen.com/ <-- Constantly In Development -->
-
+- 💻 I work in IT
+- 👨 2004 model
 ---
+
 ### 🔥 My Stats :
 <p align="left"><a href="https://github.com/OlaYZen/github-readme-stats">
   <img align="center" src="https://github-readme-stats-liard-phi.vercel.app/api?username=OlaYZen&count_private=true&show_icons=true&theme=radical" />
