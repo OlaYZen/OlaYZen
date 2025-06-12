@@ -65,7 +65,7 @@ I am a Developer from Norway 🇳🇴
 ### 🏗️ My Current Project :
 
 
-[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=massupd-gui&show_owner=true&theme=radical&layout=Gradient")](https://github.com/olayzen/massupd-gui)
+[![Readme Card](https://github-readme-stats-liard-phi.vercel.app/api/pin/?username=olayzen&repo=yz-shell&show_owner=true&theme=radical&layout=Gradient")](https://github.com/olayzen/yz-shell)
 
 ---
 
